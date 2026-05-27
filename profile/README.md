@@ -1,6 +1,2 @@
-![PenetrateVPN](../media/ascii-art.png) PenetrateVPN                                                                                                                 
-                                                                                                                     
-                                                                                                                     
-
-
-### A free solution to bypass restrictions.
+![PenetrateVPN](../media/ascii-art.png)
+### Бесплатность
